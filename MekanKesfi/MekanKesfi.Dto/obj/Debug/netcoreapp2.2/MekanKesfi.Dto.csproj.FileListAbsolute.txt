@@ -1,0 +1,16 @@
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Dto.deps.json
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Dto.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Dto.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.csprojAssemblyReference.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.csproj.CoreCompileInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.AssemblyInfoInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.AssemblyInfo.cs
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+D:\VS Projeler\MekanKesfi\MekanKesfi.Dto\obj\Debug\netcoreapp2.2\MekanKesfi.Dto.csproj.CopyComplete

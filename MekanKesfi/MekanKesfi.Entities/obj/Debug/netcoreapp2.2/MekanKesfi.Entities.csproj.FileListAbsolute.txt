@@ -1,0 +1,26 @@
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.deps.json
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.dll
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.pdb
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csprojAssemblyReference.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csproj.CoreCompileInputs.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.AssemblyInfoInputs.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.AssemblyInfo.cs
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csproj.CopyComplete
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.dll
+E:\Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.deps.json
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Entities.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csprojAssemblyReference.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csproj.CoreCompileInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.AssemblyInfoInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.AssemblyInfo.cs
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.csproj.CopyComplete
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Entities\obj\Debug\netcoreapp2.2\MekanKesfi.Entities.pdb

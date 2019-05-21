@@ -1,0 +1,26 @@
+﻿@model MekanKesfiWebUI.Models.UrunlerViewModel
+
+@{
+    ViewData["Title"] = "UrunDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <img src="@Model.UrunDetay.UrunFoto" width="200" height="300" />
+        </div>
+
+        <div class="col-md-7">
+            <h4>@Model.UrunDetay.UrunAd</h4>
+            <ul class="list-group">
+                <li class="list-group-item"><label class="col-md-5">Fiyat :</label><label class="col-md-7">@Model.UrunDetay.UrunFiyat</label></li>
+                <li class="list-group-item"><label class="col-md-5">Mekan Adı :</label><label class="col-md-7">@Model.UrunDetay.MekanAd</label></li>
+                <li class="list-group-item"><label class="col-md-5">İlçe / İl :</label><label class="col-md-7">@Model.UrunDetay.IlceAd / @Model.UrunDetay.IlAd</label></li>
+                <a class="btn btn-sm btn-outline-secondary col-md-5" asp-controller="Mekanlar" asp-action="Detay" asp-route-mekanId="@Model.UrunDetay.MekanId ">Satılan Mekana Git</a>
+            </ul>
+        </div>
+    </div>
+ 
+</div>
+

@@ -1,0 +1,41 @@
+﻿@model MekanKesfiWebUI.Models.MekanlarViewModel
+
+@{
+    ViewData["Title"] = "Liste";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <nav class="navbar navbar-light">
+        <form class="form-inline" asp-action="Liste" >
+            <input name="aranan" class="form-control mr-sm-2" type="search" placeholder="Arama" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Ara</button>
+        </form>
+    </nav>
+
+    <div class="row">
+        @foreach (var item in Model.MekanListe)
+        {
+
+            <div class="col-md-6">
+                <h2 class="mt-3 pt-3">@item.MekanAd</h2>
+                <div class="card mb-4 shadow-sm">
+                    <img class="card-img-top"
+                         src="@item.MekanFoto" style="height: 225px; width: 100%" alt="Card image cap">
+                    <div class="card-body">
+
+                        <p class="card-text">@item.MekanAdres</p>
+
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" asp-controller="Mekanlar" asp-action="Detay" asp-route-mekanId="@item.MekanId">Detay</a>
+                            </div>
+                            <small class="text-muted col-6" style="text-align:right">@item.IlceAd / @item.IlAd</small>
+                            <small class="text-muted col-md-6">@item.MekanSahibiAd</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

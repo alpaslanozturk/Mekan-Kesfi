@@ -1,0 +1,18 @@
+E:\Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.deps.json
+E:\Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+E:\Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.csprojAssemblyReference.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.csproj.CoreCompileInputs.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.AssemblyInfoInputs.cache
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.AssemblyInfo.cs
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+E:\Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.deps.json
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\bin\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.csproj.CoreCompileInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.AssemblyInfoInputs.cache
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.AssemblyInfo.cs
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.dll
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.pdb
+D:\VS Projeler\MekanKesfi\MekanKesfi.Core\obj\Debug\netcoreapp2.2\MekanKesfi.Core.csprojAssemblyReference.cache
